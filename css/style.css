@@ -1,0 +1,411 @@
+.breakpoint-0,
+.style21 {
+  background-color: #f6f8f9
+}
+.breakpoint-0 {
+  margin-right: auto;
+  width: 100%;
+  height: 177.7vh;
+  position: absolute;
+  margin-left: auto
+}
+.style21 {
+  display: flex;
+  margin-left: 0;
+  margin-top: 0;
+  width: 100vw;
+  height: 3.4722222222222223vw;
+  z-index: 20;
+  align-items: center
+}
+.style22,
+.style23,
+.style24,
+.style25,
+.style26 {
+  font-family: Helvetica,serif;
+  font-weight: 700;
+  line-height: 1.3888888888888888vw;
+  align-self: center
+}
+.style22 {
+  color: #fa6980;
+  margin-left: 1.3888888888888888vw;
+  z-index: 21;
+  font-size: .9027777777777778vw
+}
+.style23,
+.style24,
+.style25,
+.style26 {
+  font-size: .7638888888888888vw
+}
+.style23 {
+  color: #343638;
+  margin-left: 71.18055555555556vw;
+  z-index: 22
+}
+.style24,
+.style25,
+.style26 {
+  color: rgba(52,54,56,.5);
+  margin-left: 1.875vw;
+  z-index: 25
+}
+.style24,
+.style25 {
+  margin-left: 1.5277777777777777vw;
+  z-index: 23
+}
+.style25 {
+  z-index: 24
+}
+.style27 {
+  object-fit: cover;
+  margin-left: 2.7777777777777777vw;
+  width: 2.0833333333333335vw;
+  height: 2.0833333333333335vw;
+  z-index: 26;
+  align-self: center;
+  border-radius: 50%
+}
+.style20 {
+  object-fit: cover;
+  margin-left: 0;
+  width: 100vw;
+  height: 41.666666666666664vw;
+  z-index: 19
+}
+.desktop2row2 {
+  display: flex;
+  margin-left: 9.722222222222223vw;
+  margin-top: 10vh;
+  width: 80.9722900390625vw;
+  flex-wrap: wrap
+}
+.desktop2row2col0 {
+  display: flex;
+  margin-left: 0;
+  margin-top: 0;
+  width: 22.77777777777778vw;
+  min-width: 218.66666666666666px;
+  height: 49.65277777777778vw;
+  flex-direction: column
+}
+.style29 {
+  color: #202124;
+  font-family: 'Acumin Pro',serif;
+  font-size: 2.2222222222222223vw;
+  font-weight: 700;
+  line-height: 2.9166666666666665vw;
+  margin-left: 0;
+  margin-top: 0;
+  width: 22.916666666666668vw;
+  height: 5.138888888888889vw;
+  z-index: 28
+}
+.style30,
+.style35 {
+  margin-left: 0;
+  margin-top: 2.7777777777777777vw
+}
+.style30 {
+  color: #a6adb4;
+  font-family: Helvetica,serif;
+  font-size: .9722222222222222vw;
+  line-height: 1.8055555555555556vw;
+  height: 33.541666666666664vw;
+  text-overflow: clip;
+  overflow: hidden;
+  width: 22.916666666666668vw;
+  z-index: 29
+}
+.style35 {
+  border-left: .1388888888888889vw solid #ebeded;
+  border-right: .1388888888888889vw solid #ebeded;
+  border-top: .1388888888888889vw solid #ebeded;
+  border-bottom: .1388888888888889vw solid #ebeded;
+  width: 22.22222222222222vw;
+  height: 0;
+  z-index: 34
+}
+.desktop2row2col0row4,
+.style31 {
+  margin-left: 0;
+  height: 1.1111111111111112vw
+}
+.style31 {
+  color: #202124;
+  font-family: 'Acumin Pro',serif;
+  font-size: 1.1111111111111112vw;
+  font-weight: 700;
+  z-index: 30;
+  margin-top: 2.7777777777777777vw;
+  width: 22.916666666666668vw
+}
+.desktop2row2col0row4 {
+  display: flex;
+  margin-top: .6944444444444444vw;
+  width: 10.48611111111111vw
+}
+.style33,
+.style34 {
+  width: 1.1111111111111112vw;
+  height: 1.1111111111111112vw
+}
+.style33 {
+  display: flex;
+  margin-left: 0;
+  flex-direction: column;
+  z-index: 32
+}
+.style34 {
+  z-index: 33
+}
+.style32 {
+  color: #a6adb4;
+  font-family: Helvetica,serif;
+  font-size: .9027777777777778vw;
+  line-height: 1.8055555555555556vw;
+  margin-left: .6944444444444444vw;
+  z-index: 31
+}
+.style1 {
+  border-left: .1388888888888889vw solid #ebeded;
+  border-right: .1388888888888889vw solid #ebeded;
+  border-top: .1388888888888889vw solid #ebeded;
+  border-bottom: .1388888888888889vw solid #ebeded;
+  margin-left: 3.611178927951389vw;
+  margin-top: 0;
+  width: 0;
+  min-width: 0;
+  height: 50.486111111111114vw;
+  z-index: 0
+}
+.desktop2row2col2,
+.style2 {
+  margin-top: 0;
+  width: 51.388888888888886vw
+}
+.desktop2row2col2 {
+  display: flex;
+  margin-left: 3.4721544053819446vw;
+  min-width: 493.3333333333333px;
+  height: 50.486111111111114vw;
+  flex-direction: column;
+  flex-grow: 1
+}
+.style2 {
+  display: grid;
+  grid-gap: 2.7777777777777777vw
+}
+.style3 {
+  display: flex;
+  z-index: 2
+}
+.desktop2row2col2grid0container0col0 {
+  display: flex;
+  margin-left: 0;
+  margin-top: 0;
+  width: 50.69444444444444vw;
+  height: 12.01388888888889vw;
+  flex-direction: column
+}
+.desktop2row2col2grid0container0col0row0 {
+  display: flex;
+  margin-left: 0;
+  margin-top: 0;
+  width: 51.388888888888886vw;
+  height: 2.7777777777777777vw;
+  align-items: center
+}
+.style4 {
+  object-fit: cover;
+  margin-left: 0;
+  width: 2.7777777777777777vw;
+  height: 2.7777777777777777vw;
+  z-index: 3;
+  border-radius: 50%
+}
+.style5,
+.style6 {
+  color: #202124;
+  font-family: Helvetica,serif
+}
+.style5 {
+  font-weight: 700;
+  margin-left: 1.3888888888888888vw;
+  align-self: center;
+  font-size: 1.6666666666666667vw;
+  width: 47.22222222222222vw;
+  height: 1.3888888888888888vw;
+  z-index: 4
+}
+.style6 {
+  font-size: 1.1111111111111112vw;
+  line-height: 2.0833333333333335vw;
+  margin-left: 0;
+  margin-top: 1.3888888888888888vw;
+  width: 50.69444444444444vw;
+  height: 5.347222222222222vw;
+  z-index: 5
+}
+.desktop2row2col2grid0container0col0row2 {
+  display: flex;
+  margin-left: 0;
+  margin-top: 1.3888888888888888vw;
+  width: 5.763888888888889vw;
+  height: 1.1111111111111112vw
+}
+.style8,
+.style9 {
+  width: 1.1111111111111112vw;
+  height: 1.1111111111111112vw
+}
+.style8 {
+  display: flex;
+  margin-left: 0;
+  flex-direction: column;
+  z-index: 7
+}
+.style9 {
+  z-index: 8
+}
+.style7 {
+  color: #a6adb4;
+  font-family: Helvetica,serif;
+  font-size: .9027777777777778vw;
+  line-height: 1.8055555555555556vw;
+  margin-left: .6944444444444444vw;
+  z-index: 6
+}
+.style10 {
+  display: flex;
+  z-index: 9
+}
+.desktop2row2col2grid0container2col0 {
+  display: flex;
+  margin-left: 0;
+  margin-top: 0;
+  width: 50.69444444444444vw;
+  height: 12.01388888888889vw;
+  flex-direction: column
+}
+.desktop2row2col2grid0container2col0row0 {
+  display: flex;
+  margin-left: 0;
+  margin-top: 0;
+  width: 51.388888888888886vw;
+  height: 2.7777777777777777vw;
+  align-items: center
+}
+.style11 {
+  object-fit: cover;
+  margin-left: 0;
+  width: 2.7777777777777777vw;
+  height: 2.7777777777777777vw;
+  z-index: 10;
+  border-radius: 50%
+}
+.style12,
+.style13 {
+  color: #202124;
+  font-family: Helvetica,serif
+}
+.style12 {
+  font-weight: 700;
+  margin-left: 1.3888888888888888vw;
+  align-self: center;
+  font-size: 1.6666666666666667vw;
+  width: 47.22222222222222vw;
+  height: 1.3888888888888888vw;
+  z-index: 11
+}
+.style13 {
+  font-size: 1.1111111111111112vw;
+  line-height: 2.0833333333333335vw;
+  margin-left: 0;
+  margin-top: 1.3888888888888888vw;
+  width: 50.69444444444444vw;
+  height: 5.347222222222222vw;
+  z-index: 12;
+  text-overflow: clip;
+  overflow: hidden
+}
+.desktop2row2col2grid0container2col0row2 {
+  display: flex;
+  margin-left: 0;
+  margin-top: 1.3888888888888888vw;
+  width: 5.763888888888889vw;
+  height: 1.1111111111111112vw
+}
+.style15,
+.style16 {
+  width: 1.1111111111111112vw;
+  height: 1.1111111111111112vw
+}
+.style15 {
+  display: flex;
+  margin-left: 0;
+  flex-direction: column;
+  z-index: 14
+}
+.style16 {
+  z-index: 15
+}
+.style14 {
+  color: #a6adb4;
+  font-family: Helvetica,serif;
+  font-size: .9027777777777778vw;
+  line-height: 1.8055555555555556vw;
+  margin-left: .6944444444444444vw;
+  z-index: 13
+}
+.style17,
+.style18 {
+  display: flex;
+  align-items: center
+}
+.style17 {
+  background-image: url(https://designresources.assets.yotako.io/80syc5gt7kbj8nhw1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  object-fit: cover;
+  margin-top: 2.7777777777777777vw;
+  border-radius: .4166666666666667vw;
+  width: 50.69444444444444vw;
+  height: 20.833333333333332vw;
+  z-index: 16
+}
+.style18 {
+  border-left: .1388888888888889vw solid #fff;
+  border-right: .1388888888888889vw solid #fff;
+  border-top: .1388888888888889vw solid #fff;
+  border-bottom: .1388888888888889vw solid #fff;
+  margin-left: 23.958333333333332vw;
+  width: 3.4722222222222223vw;
+  height: 3.4722222222222223vw;
+  z-index: 17;
+  align-self: center;
+  flex-direction: column;
+  justify-content: center;
+  border-radius: 50%
+}
+.style19 {
+  width: .5555555555555556vw;
+  height: .6944444444444444vw;
+  z-index: 18
+}
+.style28 {
+  background-color: #a6adb4;
+  margin-left: 0;
+  margin-top: 10.4vh;
+  width: 100vw;
+  height: 13.88888888888889vw;
+  z-index: 27
+}
+.breakpoint-0 {
+  display: block
+}
